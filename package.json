@@ -1,0 +1,15 @@
+{
+  "name": "ai-tool-router",
+  "version": "1.0.0",
+  "description": "Automatic tool selection and execution router for recursive AI agents",
+  "main": "src/index.js",
+  "keywords": [
+    "ai",
+    "tool-use",
+    "function-calling",
+    "agent",
+    "router",
+    "llm"
+  ],
+  "license": "MIT"
+}
